@@ -1,0 +1,3 @@
+| Command                                                                                                                                                                                         | Description             |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------- |
+| [git rebase -r {sha} --exec 'git commit --amend --no-edit --reset-author'](https://stackoverflow.com/questions/750172/how-do-i-change-the-author-and-committer-name-email-for-multiple-commits) | reset author in history |
